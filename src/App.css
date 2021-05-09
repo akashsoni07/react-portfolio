@@ -1,0 +1,14 @@
+.project{
+    box-shadow:0 0 10px black;
+    padding:10px;
+    border-radius:10px;
+}
+
+.project a{
+    color:black;
+}
+
+.project a:hover{
+    text-decoration:none;
+    color:blue;
+}
